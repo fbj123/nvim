@@ -1,3 +1,8 @@
+updater = {
+  channel = "stable",
+  version = "v2.*"
+}
+
 return {
   -- Configure AstroNvim updates
   updater = {
